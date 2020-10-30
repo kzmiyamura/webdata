@@ -1,2 +1,1 @@
-"# webdata" 
 "# cordova-plugin-webdata" 
